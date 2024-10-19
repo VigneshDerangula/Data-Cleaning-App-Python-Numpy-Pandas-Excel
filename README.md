@@ -41,3 +41,7 @@ The Data Cleaning Application is a Python-based tool designed to automate the pr
 
 **Conclusion:**
 The Data Cleaning Application is an essential tool for anyone working with data, as it significantly reduces the time and effort required for data preprocessing. By automating critical tasks such as duplicate detection and missing value management, it allows users to focus on analysis and decision-making, ultimately leading to more accurate and reliable results.
+
+
+![Data Cleaning With pandas and NumPy – Real Python](https://github.com/user-attachments/assets/5f90298f-1aa6-448e-b9a6-c46fb34bd43e)
+
