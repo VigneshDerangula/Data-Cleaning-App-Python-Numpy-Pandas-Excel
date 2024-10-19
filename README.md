@@ -1,8 +1,7 @@
-![7 EASY Steps for DATA CLEANING](https://github.com/user-attachments/assets/57689688-85bf-455c-9dbf-c47adeb61fe2)
-# Data-Cleaning-App
-Here's a detailed description of a Data Cleaning Application built using Python, highlighting its purpose, features, and technologies used:
+![DATA CLEANING PANDAS](https://github.com/user-attachments/assets/7c174c9c-b887-4379-b439-b3389feabe79)
 
----
+
+
 
 ### **Data Cleaning Application Using Python**
 
